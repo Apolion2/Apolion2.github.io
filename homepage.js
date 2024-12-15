@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // Для кнопок копіювання (приклад)
+  // Для кнопок копіювання
   const buttons = document.querySelectorAll('.copy-btn'); // Замініть на актуальний селектор
   if (buttons.length > 0) {
     buttons.forEach(button => {
