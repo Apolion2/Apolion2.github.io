@@ -528,11 +528,11 @@ header {
 }
 
 .add-to-cart:hover img {
-  content: url("/docs/img/cart-hover.webp");
+  content: url("/docs/img/cart-hover.png");
 }
 
 .add-to-whislist:hover img {
-  content: url("/docs/img/whistlist-hover.webp");
+  content: url("/docs/img/whistlist-hover.png");
 }
 
 .allProducts {
